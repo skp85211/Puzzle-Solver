@@ -2,6 +2,9 @@
 8 x 8 Puzzle Solve using cpp <br>
 This project solves the famous 8-puzzle problem using A* Search and Manhattan distance heuristics. The solver takes in the input puzzle and returns the procedure for solving the problem.
 
+<p align="center">
+  <img src="8puzzle.png" width="825" height="200" title="8 x 8 Puzzle solver">
+</p>
 
 <h4>Salient features of the code are:</h4>
 <ol>
